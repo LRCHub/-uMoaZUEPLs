@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アイトユウ",
+  "base_artist": "ラックライフ",
+  "createdAt": "2025-12-11T11:26:08.272759Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイトユウ",
+      "artist": "LUCKLIFE",
+      "has_synced": false,
+      "path": "select/01_アイトユウ_LUCKLIFE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイトユウ",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/02_アイトユウ_ラックライフ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイトユウ",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_アイトユウ_ラックライフ.txt"
+    }
+  ]
+}
